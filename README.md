@@ -41,7 +41,7 @@ User navigates to chat screen and sees who is home
 User can click each person and send a message
 
 
-## Current Blockers/Issues: None
+## Current Blockers/Issues: Not any issue, but learning STOMP protocal with Spring Boot Websockets and SockJS
 
 
 
