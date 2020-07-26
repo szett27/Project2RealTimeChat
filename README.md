@@ -5,7 +5,7 @@
 ## User Stories.
 
 ### Admin
-  1) There is an admin that can view everything....
+  1) There is an admin that can view everything
 
 
 ### User
@@ -24,9 +24,13 @@
 10) Users can edit messages after they are sent
 
 
+### Parts of the Stack - possibly
+SpringBoot with Websockets
+RabbitMQ as the message Sever
+SockJS() 
+ReactJS Front End
 
-
-### Database Tables
+### Database Tables 
 
 Name: Users
 Fields: (Long PK) ID, (VarChar) Display Name : (Boolean) Is_Home?
